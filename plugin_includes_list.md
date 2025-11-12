@@ -9,7 +9,6 @@ https://github.com/dinhkhoi2298/fSelection
 https://github.com/dinhkhoi2298/menu
 https://github.com/dukisito/notificaciones
 https://github.com/emmet-jones/New-SA-MP-callbacks
-https://github.com/emmet-jones/New-SA-MP-callbacks
 https://github.com/fusez/Map-Editor-V3
 https://github.com/Hual/samp-discord-plugin
 https://github.com/IllidanS4/YSF
@@ -64,7 +63,6 @@ https://github.com/Fairuz-Afdhal/IsPlayerUsingAndroid
 https://github.com/adib-yg/SAMP-Mobile-Checker
 https://github.com/adib-yg/SAMP-RGB-Textdraw
 https://github.com/alexchwoj/pawn-easing-functions
-https://github.com/Naseband/SAMP-Peds
 https://github.com/AmyrAhmady/samp-node
 https://github.com/NexiusTailer/Ultimate-Creator
 https://github.com/alextwothousand/mSelection
