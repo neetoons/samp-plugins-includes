@@ -89,6 +89,7 @@ https://github.com/diogomartino/SAMPMailJS
 https://github.com/sickshark2007/Progress
 https://github.com/Ramon-Sd/marker-plus
 https://github.com/nexquery/samp-textdraw-streamer
+https://github.com/alexchwoj/pawn-easing-functions
 https://github.com/Ino-Bagaric/OxygenController
 https://github.com/oscar-broman/sky
 https://github.com/vendder5/samp-webhooks-api
