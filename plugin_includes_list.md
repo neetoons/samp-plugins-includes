@@ -5,7 +5,6 @@ https://github.com/Awsomedude/easyDialog
 https://github.com/BigETI/Dini
 https://github.com/BigETI/pawn-vector
 https://github.com/CyberMor/sampvoice
-https://github.com/DeViL252/PySAMP-Window-Server
 https://github.com/dinhkhoi2298/fSelection
 https://github.com/dinhkhoi2298/menu
 https://github.com/dukisito/notificaciones
@@ -58,8 +57,8 @@ https://github.com/Sreyas-Sreelal/samp-bcrypt/
 https://github.com/Vasily-X/vSync
 https://github.com/Y-Less/sscanf
 https://github.com/YashasSamaga/I-ZCMD
-https://github.com/Zeex/samp-plugin-crashdetect
-https://github.com/Zeex/samp-plugin-profiler
+https://github.com/Y-Less/samp-plugin-crashdetect
+https://github.com/sa-mp-kr/samp-plugin-profiler
 https://github.com/ziggi/FCNPC
 https://github.com/Fairuz-Afdhal/IsPlayerUsingAndroid
 https://github.com/adib-yg/SAMP-Mobile-Checker
@@ -74,7 +73,6 @@ https://github.com/lassir/bcrypt-samp
 https://github.com/dinhkhoi2298/fSelection
 https://github.com/dinhkhoi2298/menu
 https://github.com/markski1/SAMP-tireFuncs
-https://github.com/Mythic-Corporation/Animated-Notifications
 https://github.com/Hual/SAMPSON
 https://github.com/Vasily-X/GZ_Shapes
 https://github.com/Gammix/Interactive-Gangzones-Include
@@ -93,4 +91,4 @@ https://github.com/Ramon-Sd/marker-plus
 https://github.com/nexquery/samp-textdraw-streamer
 https://github.com/Ino-Bagaric/OxygenController
 https://github.com/oscar-broman/sky
-https://github.com/alexchwoj/pawn-easing-functions/tree/main
+https://github.com/vendder5/samp-webhooks-api
